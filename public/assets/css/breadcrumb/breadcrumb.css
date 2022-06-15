@@ -1,0 +1,4 @@
+.breadcrumb-item>span>nav,
+.breadcrumb-item>span>nav>ol {
+    background-color: #f8f9fa;
+}

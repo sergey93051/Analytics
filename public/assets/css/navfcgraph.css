@@ -1,0 +1,301 @@
+.navbar-graph {
+    box-shadow: 0 16px 12px 0 rgb(0 0 0 / 16%) !important;
+    background-color: #ffffff !important;
+    margin-top: 30px !important;
+    height: 100px !important;
+    border-bottom: 2px solid #ffffff;
+}
+
+.av-item-fc a {
+    font-size: 20px !important;
+}
+
+.av-item-fc a:hover {
+    font-size: 21px !important;
+}
+
+.boxs-style0,
+.boxs-style1,
+.boxs-style2,
+.boxs-style3 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+.boxs-style0 {
+    background-color: #A52A2A;
+}
+
+.boxs-style1 {
+    background-color: #FFD700;
+}
+
+.boxs-style2 {
+    background-color: #7FFF00;
+}
+
+.boxs-style3 {
+    background-color: #D2691E;
+}
+
+
+/* pe */
+
+.pEboxs-style0 {
+    background-color: #008000;
+}
+
+.pEboxs-style1 {
+    background-color: #0000FF;
+}
+
+.pEboxs-style2 {
+    background-color: #FFD700;
+}
+
+.pEboxs-style3 {
+    background-color: #B22222;
+}
+
+.pEboxs-style4 {
+    background-color: #4B0082;
+}
+
+.pEboxs-style5 {
+    background-color: #DC143C;
+}
+
+.pEboxs-style0,
+.pEboxs-style1,
+.pEboxs-style2,
+.pEboxs-style3,
+.pEboxs-style4,
+.pEboxs-style5 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* pi */
+
+.pIboxs-style0 {
+    background-color: #008000;
+}
+
+.pIboxs-style1 {
+    background-color: #0000FF;
+}
+
+.pIboxs-style2 {
+    background-color: #FFD700;
+}
+
+.pIboxs-style3 {
+    background-color: #B22222;
+}
+
+.pIboxs-style4 {
+    background-color: #4B0082;
+}
+
+.pIboxs-style5 {
+    background-color: #DC143C;
+}
+
+.pIboxs-style6 {
+    background-color: #00008B;
+}
+
+.pIboxs-style7 {
+    background-color: #008B8B;
+}
+
+.pIboxs-style8 {
+    background-color: #B8860B;
+}
+
+.pIboxs-style9 {
+    background-color: #8B008B;
+}
+
+.pIboxs-style0,
+.pIboxs-style1,
+.pIboxs-style2,
+.pIboxs-style3,
+.pIboxs-style4,
+.pIboxs-style5,
+.pIboxs-style6,
+.pIboxs-style7,
+.pIboxs-style8,
+.pIboxs-style9 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* reaction */
+
+.reactionboxs-style0 {
+    background-color: #008000;
+}
+
+.reactionboxs-style1 {
+    background-color: #0000FF;
+}
+
+.reactionboxs-style2 {
+    background-color: #8B008B;
+}
+
+.reactionboxs-style3 {
+    background-color: #FFD700;
+}
+
+.reactionboxs-style4 {
+    background-color: #4B0082;
+}
+
+.reactionboxs-style5 {
+    background-color: #B22222;
+}
+
+.reactionboxs-style0,
+.reactionboxs-style1,
+.reactionboxs-style2,
+.reactionboxs-style3,
+.reactionboxs-style4,
+.reactionboxs-style5 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* pv */
+
+.pvboxs-style0 {
+    background-color: #008000;
+}
+
+.pvboxs-style1 {
+    background-color: #0000FF;
+}
+
+.pvboxs-style2 {
+    background-color: #8B008B;
+}
+
+.pvboxs-style0,
+.pvboxs-style1,
+.pvboxs-style2 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* pvv */
+
+.pvvboxs-style0 {
+    background-color: #008000;
+}
+
+.pvvboxs-style1 {
+    background-color: #0000FF;
+}
+
+.pvvboxs-style2 {
+    background-color: #FFD700;
+}
+
+.pvvboxs-style3 {
+    background-color: #B22222;
+}
+
+.pvvboxs-style4 {
+    background-color: #4B0082;
+}
+
+.pvvboxs-style5 {
+    background-color: #DC143C;
+}
+
+.pvvboxs-style6 {
+    background-color: #00008B;
+}
+
+.pvvboxs-style0,
+.pvvboxs-style1,
+.pvvboxs-style2,
+.pvvboxs-style3,
+.pvvboxs-style4,
+.pvvboxs-style5,
+.pvvboxs-style6 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* pv30s */
+
+.pv3cboxs-style0 {
+    background-color: #008000;
+}
+
+.pv3cboxs-style1 {
+    background-color: #0000FF;
+}
+
+.pv3cboxs-style2 {
+    background-color: #FFD700;
+}
+
+.pv3cboxs-style3 {
+    background-color: #B22222;
+}
+
+.pv3cboxs-style4 {
+    background-color: #4B0082;
+}
+
+.pv3cboxs-style5 {
+    background-color: #DC143C;
+}
+
+.pv3cboxs-style6 {
+    background-color: #00008B;
+}
+
+.pv3cboxs-style0,
+.pv3cboxs-style1,
+.pv3cboxs-style2,
+.pv3cboxs-style3,
+.pv3cboxs-style4,
+.pv3cboxs-style5,
+.pv3cboxs-style6 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}
+
+
+/* pud */
+
+.pudboxs-style0 {
+    background-color: #008000;
+}
+
+.pudboxs-style1 {
+    background-color: #ff0000;
+}
+
+.pudboxs-style0,
+.pudboxs-style1 {
+    padding: 5px;
+    margin: 3px;
+    height: 10px;
+}

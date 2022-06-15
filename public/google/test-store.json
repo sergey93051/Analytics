@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newstorefriday",
+  "private_key_id": "aed43f9e418c5b0538374280943e200ae29703c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCL72F1eGOFVyC1\n+IcdV9lt0XEETZOrjXw9O3Bd8nIhABPme6i5Ov66nKWekeM50YmsecywA/3k7byF\niNEFgIc1bzLpizIeFF5bGsvg6FI+TRw8F0z8V9zF+cujmnjHfupYP0d5PsSX+NeE\nWQW1+SmWmHuVyaW7OiavBFExIXrOpsArJbFeM8ypWN6PDBNjU/tRiSX4LH4HsgDa\n6uMXdMBPT5NYjxdN+S0Y2J5073Muy6ZHmthztXu6pX6phxDptH7pX8xm6tu+lX8x\nlMkK0yhvfTslDdfgdm71ngWJ+eRjM8c/yNRTsjLuX+XxT3S/6hEPcpN52QOk1YOu\nK18LAte/AgMBAAECggEACjjM/Z4/zG4El/y7R5CMjVuW+sTJ8szah8SJEEViD3jb\nrnxXYyexxm+9hc6yJdD7H0WK0+Uh8+OaRlNFfxyxtvY6mcAokI7vV46NC9uDCnid\nuK80P48RgJRSZLVarKpfzV0N+24M2u17Nl7XlNpKSFOdXEZtgoNpPDA/pN84gwWk\nOIJXfB8HuYvtjyiXDxTKuzUmACCsHsXRaQsounxQauwZjmVk/XvuVVYGpbkaUjrx\nW7JlXwEafcC9SAdg4D5JeqLFqy0VzMCpwdynwXbXmdh8UsZoOOmw4lZA0KYLIzkS\neUNiRfi11geLJA3zlevxk1XnKbB9nv6hmGI2tAPYAQKBgQDB1JE2nY9fZBxRhMfd\n0qtMqxZChjdWj8TkrIcTlth3pVjEi+ja2CIusHwSNgACGrSn4aY4+2nwAoSdh99K\nI9kzm0vIjgDvXXW8oo/CMCzOeNjdDeO208+oegx+JDb0rgJVTq4seLggRAwXd/tl\nUBWJQNd5Z/KAoZ3XjccTWHbIAQKBgQC40XeWXm9bILBjRYpnml4CYu1d40GVSuoW\n9BPFXHWQA2/t7sN6GLZYskFUfYkdgvjGlv6SKlSGQadBJFCyo3E0SyZ+5UjzC7HW\nLV+61VApnhVIAeraPKvQFHYwlh2ZKnqcCQlP1TaQL0WveCb+s14JKeutgtd8GrpA\nySWqrCufvwKBgC9G2rh4i8zXjTSw71MCnHeRz1cgh4TcgkjIcBXuGBRuxw0BlyUx\nzHyY3VpPw4a/3sqH9lQ1tmwtIQ2PY34g6kx1F3HuePnpUNtWxzu1Jmih/ztDtQQV\n+7N7OWrXCHR7sOP/0enU9AwirNRYln/qnaYho6zgFr0bLnWyBhmI3UgBAoGASMHt\nmjzDCdTsm6gcvHyA1d+sInH8t5EuZqrfvaqQfYlc3wZH3iEsZ+6E2YYyHHQbC9MV\nlOUlMVVXSsXJHwpI3pVXKk2JUmUgNXjXXu3rCPc62YYntpJ78QadILN4I3wdmJ/W\nEp+VQ13YySM79rkWI/Vk2oHP4wOCn06QjYgKBHECgYEAhwphB8WJDnSWMBzk95dL\nqnNzEC5Zz2z0UBbZzxAYSWcXgv1cEC4fLA7CI4lZEvO7GVw2ThiRdcNr+YjeAeYn\nCVOjac5JCCIypIsH/GrpPsmjlPMNbE4gPteeEvD/4tvqy3dM1qKbeCHMdNiINztZ\n/onCQ+0LnV7yrrbgZaijelo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-store-tigran@newstorefriday.iam.gserviceaccount.com",
+  "client_id": "109466071609332429850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-store-tigran%40newstorefriday.iam.gserviceaccount.com"
+}

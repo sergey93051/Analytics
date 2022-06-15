@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "newstorefriday",
+    "private_key_id": "8f1a2b03b8bd69ba32f04db0635109eee34de880",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD0M1/W+0ao49Ra\noVx+aQaZ106EHmR7YPpCA6irYN580bnkfT0jLZvaeU0Zi3NILbrBw8AncxA5LT1h\nKbYS2BSHvJx+J2UdrllIwF0qaoZg4dALvVTCMbZmGp8EwF/GPR2yQ9lQNDZHm6Mv\nLZl7HpmHMyokWO19Qt1MUNoOKEjedlAfDLbu8B2QYz/Eu/80IJkDtTN2cV+J0/5y\nHJnLayX1RMARnAtKNbOr2if/I++hqMASwycH1Wws1x+/vZitiS69/4M7f9/Qc0VE\ndjOCl+669IsFVqhJIG7DL9meMr3mF88TSfpEzaK71PN3DuEgBcvfamWGeox55Ghw\ntEy6C+8XAgMBAAECggEAEKL6tF88Z59/Op4ZT+Vg1T9FXUaNdZhcRFNn0iZ7JzQf\nPtFHcSuXcsa7zsc2LI8s/4FnXb3+4h5SZa8H9U2yTF24Uvc6ciS2zCLgK1Zu3uUo\nyCahwnR3kYozwN5ISBhRexvDOi3BxZbKrcP6BljF1d+m+dXzIWBaSkDh3NViwtZY\n5M280PI2XX1957yuVZLLy0FG5UjTMGFIdUmfbFKYwG4BX8+gGEqjyat3GsEV0gw1\nnr+wBfgHgGExyuyO8j49lxgjboZxecUwjKNdMcOF/dQH74xrRwC5N2ewI24Z2pwY\npGbUQFZ4NoMuMxKnPwTwhAL9MR7cV7wGVIy74HXXgQKBgQD8jx3pSM0jfz0VczC6\n5crHunKDrmXtyy8MqX98Wos1WJYCyoO+ODkwM2WzvXhRqEGg9cjSMAQf9RL0Ttr8\nZt15fseTXCvSBhZcMG7J87ZmIlan8bkjgmM651DTuIb/Mpk4FLJ6fFSCAklXrsvw\nD8si7NxLltpqZToarr90Qj4IlwKBgQD3hxrelN30NP4tw8X+saKoGxJOAkH7m/dz\nu9x11Dgv0KJdpnJCMzp2K3JHWV5LPSnxY60BqEDn5JZ4yB9UA6ITTHDQU+HnzVNO\nq4v+m5jpRlix4H+IJ3T5Xifi4ttxSzEc9mJ7e5msV2GKKlDuxQLyDg60vVQT50pn\naWLhIkOdgQKBgAUu5r0/6j3dQaKsD4b2alf5ApqjPKJJtjh7Tgt+TDcXD1UVVOjV\nfI75rw+mRs7eNiKYiLuPkrYZMH9lEud1MPxqVqw2iwuvZkwUDmIEp2ynLcIamuMY\nrPKrhqQhuFuKbUySWCtdW9qjM2AiTTsrB886rza57NecJjof9fvr1BwXAoGBAPQM\nmUlrrYrh1Np6c/SyX5UvW9TeFQBmvou1ZaAnJV6/bda4DV+H8tQf8gS28GluXLRL\neoBvy87XaiSb64eCLYKpk3FTwyAxKTofmV/nOdSGL1zx48vyWzqiwuDIm2QQptPP\neToWm2V4ogr/vdwtEsJlacp6ATO+j3V2Sq9+gPwBAoGAZaLJnA5/rext4K20AMDP\nVjkRYpo7mBnmAJwXH853NRUwgTKIX7poHV5lElNiJ3BHLnSbR0VJj0rM1FtmgFoq\n8gLbMRal6IfikX4U8WoQI4mpx7uWxrbYo7XjKpLXBf6zOXxC/BTIbPrCmVwu4l31\ny2r5kUplXMYi6/OAmC05B2c=\n-----END PRIVATE KEY-----\n",
+    "client_email": "newapi@newstorefriday.iam.gserviceaccount.com",
+    "client_id": "111992503770671276322",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newapi%40newstorefriday.iam.gserviceaccount.com"
+}

@@ -1,0 +1,89 @@
+.profil-img-navbar img {
+    border-radius: 14px;
+    width: 45px;
+}
+
+#dropdown__SettProf__btn span:nth-of-type(2) {
+    font-weight: 700 !important;
+    font-size: 15px;
+}
+
+#dropdown__SettProf__btn {
+    cursor: pointer;
+}
+
+.help-block {
+    color: red !important;
+    font-size: 81% !important;
+    font-weight: 500 !important;
+}
+
+.display-show {
+    display: block;
+}
+
+.display-hide {
+    display: none;
+}
+
+.addOrder {
+    color: #ebeb45;
+}
+
+#chartjs-pie-charts>.row>div {
+    max-height: 565px !important;
+}
+
+.home-button-navbar:hover {
+    color: #cb0c9f;
+}
+
+.change-shopify,
+.show-psc-table,
+.show-usersvisits-table,
+.show-cartcheckout-table,
+.show-dayindex-table,
+.show-userAov-table,
+.show-revenue-table,
+.show-overallTab-table,
+.show-retuser-table,
+.show-users-table,
+.show-anypageviwes-table {
+    float: right !important;
+    background-image: linear-gradient( 310deg, #ffffff 0%, #ffffff 100%);
+    color: white !important;
+}
+
+#loader {
+    display: none;
+    position: absolute;
+    left: 57%;
+    top: 52%;
+    z-index: 99999;
+    width: 80px;
+    height: 80px;
+    margin: -76px 0 0 -76px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
